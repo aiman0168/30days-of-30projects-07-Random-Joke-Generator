@@ -1,9 +1,9 @@
-import RandomJoke from "@/components/random-joke";
+import ColorPicker from "@/components/color-picker";
 
 export default function Home() {
   return (
     <div>
-      <RandomJoke />
+      <ColorPicker />
     </div>
   );
 }
